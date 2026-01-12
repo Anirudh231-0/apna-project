@@ -1,0 +1,14 @@
+table {
+    width: 90%;
+    margin: 20px;
+    background: white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+.debit {
+    color: red;
+}
